@@ -4,6 +4,17 @@ Welcome to my GitHub profile! I'm passionate about **AI** and **neuromorphic com
 
 ---
 
+## 📈 Dashboard
+
+| Metric | Value |
+|--------|-------|
+| 🏆 Total Repositories | [View All](https://github.com/ThePriMe7?tab=repositories) |
+| 🌟 GitHub Stars | [![GitHub Stars](https://img.shields.io/github/stars/ThePriMe7?style=flat-square)](https://github.com/ThePriMe7) |
+| 👥 Followers | [![GitHub Followers](https://img.shields.io/github/followers/ThePriMe7?style=flat-square)](https://github.com/ThePriMe7) |
+| 🔗 GitHub Profile | [ThePriMe7](https://github.com/ThePriMe7) |
+
+---
+
 ## 🎯 About Me
 
 - 👀 **Interests:** Artificial Intelligence, Machine Learning, and Neuromorphic Systems
@@ -32,12 +43,17 @@ Welcome to my GitHub profile! I'm passionate about **AI** and **neuromorphic com
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThePriMe7)](https://git.io/streak-stat)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThePriMe7&show_icons=true&theme=dark)](https://github.com/ThePriMe7)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePriMe7&layout=compact&theme=dark)](https://github.com/ThePriMe7)
+
 ---
 
 ## 🤝 Connect With Me
 
 - 💼 Open to collaborations on AI and neuromorphic computing projects
 - 📧 Reach out if you're interested in SNN research or development
+- 🔗 [GitHub Profile](https://github.com/ThePriMe7)
 
 ---
 
