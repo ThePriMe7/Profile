@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm REDDY4EVER
+# Hi there! 👋 I'm Mohan Reddy
 
 Welcome to my GitHub profile! I'm passionate about **AI** and **neuromorphic computing**, exploring the intersection of brain-inspired computing systems.
 
